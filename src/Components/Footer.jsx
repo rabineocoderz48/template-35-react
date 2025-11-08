@@ -178,7 +178,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      	<iframe src="https://content.morgeninternet.nl/footer/zorgeloos-footer-new.php" frameborder="0" class="iframe-footer"></iframe>
+      	<iframe src="https://content.morgeninternet.nl/footer/zorgeloos-footer-new.php" title="Company Location Map"  frameborder="0" class="iframe-footer"></iframe>
     </div>
   );
 };
