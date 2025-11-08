@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'CormorantGaramond-Bold';
+    src: url('/public/Fonts/CormorantGaramond-Bold.eot');
+    src: url('/public/Fonts/CormorantGaramond-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/CormorantGaramond-Bold.woff2') format('woff2'),
+        url('/public/Fonts/CormorantGaramond-Bold.woff') format('woff'),
+        url('/public/Fonts/CormorantGaramond-Bold.ttf') format('truetype'),
+        url('/public/Fonts/CormorantGaramond-Bold.svg#CormorantGaramond-Bold') format('svg');
+}
+ @font-face {
+    font-family: 'LamaSans-SemiBold';
+    src: url('/public/Fonts/LamaSans-SemiBold.eot');
+    src: url('/public/Fonts/LamaSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/LamaSans-SemiBold.woff2') format('woff2'),
+        url('/public/Fonts/LamaSans-SemiBold.woff') format('woff'),
+        url('/public/Fonts/LamaSans-SemiBold.ttf') format('truetype'),
+        url('/public/Fonts/LamaSans-SemiBold.svg#LamaSans-SemiBold') format('svg');
+}
+@font-face {
+    font-family: 'LamaSans-Medium';
+    src: url('/public/Fonts/LamaSans-Medium.eot');
+    src: url('/public/Fonts/LamaSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/LamaSans-Medium.woff2') format('woff2'),
+        url('/public/Fonts/LamaSans-Medium.woff') format('woff'),
+        url('/public/Fonts/LamaSans-Medium.ttf') format('truetype'),
+        url('/public/Fonts/LamaSans-Medium.svg#LamaSans-Medium') format('svg');
+}
+ @font-face {
+    font-family: 'LamaSans-Regular';
+    src: url('/public/Fonts/LamaSans-Regular.eot');
+    src: url('/public/Fonts/LamaSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/LamaSans-Regular.woff2') format('woff2'),
+        url('/public/Fonts/LamaSans-Regular.woff') format('woff'),
+        url('/public/Fonts/LamaSans-Regular.ttf') format('truetype'),
+        url('/public/Fonts/LamaSans-Regular.svg#LamaSans-Regular') format('svg');
+}
+@font-face {
+    font-family: 'LamaSans-Light';
+    src: url('/public/Fonts/LamaSans-Light.eot');
+    src: url('/public/Fonts/LamaSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/LamaSans-Light.woff2') format('woff2'),
+        url('/public/Fonts/LamaSans-Light.woff') format('woff'),
+        url('/public/Fonts/LamaSans-Light.ttf') format('truetype'),
+        url('/public/Fonts/LamaSans-Light.svg#LamaSans-Light') format('svg');
+}
+@font-face {
+    font-family: 'LamaSans-Bold';
+    src: url('/public/Fonts/LamaSans-Bold.eot');
+    src: url('/public/Fonts/LamaSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/public/Fonts/LamaSans-Bold.woff2') format('woff2'),
+        url('/public/Fonts/LamaSans-Bold.woff') format('woff'),
+        url('/public/Fonts/LamaSans-Bold.ttf') format('truetype'),
+        url('/public/Fonts/LamaSans-Bold.svg#LamaSans-Bold') format('svg');
+} 
